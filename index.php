@@ -17,7 +17,7 @@
         <?php get_template_part( 'content', get_post_format() ); ?>
     <?php endwhile; ?>
 
-    <?php my_nav( 'nav-below' ); ?>
+    <?php my_theme_nav( 'nav-below' ); ?>
 
 <?php else : ?>
 
