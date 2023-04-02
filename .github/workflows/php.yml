@@ -2,9 +2,9 @@ name: PHP Composer
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "My-WordPress-Theme" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "My-WordPress-Theme" ]
 
 permissions:
   contents: read
